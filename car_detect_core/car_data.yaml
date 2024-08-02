@@ -1,0 +1,5 @@
+train: yolo_dataset/train
+val: yolo_dataset/test
+nc: 1
+names: ['car',
+]
